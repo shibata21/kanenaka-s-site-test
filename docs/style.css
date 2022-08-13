@@ -419,8 +419,8 @@ p{
 }
 
 h3{
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
   border-left-width: 4px;
   --tw-border-opacity: 1;
   border-color: rgb(74 222 128 / var(--tw-border-opacity));
@@ -822,8 +822,8 @@ h4{
   display: none;
 }
 
-.h-96{
-  height: 24rem;
+.h-72{
+  height: 18rem;
 }
 
 .h-4{
@@ -980,6 +980,10 @@ h4{
 
 .pt-8{
   padding-top: 2rem;
+}
+
+.pt-3{
+  padding-top: 0.75rem;
 }
 
 .pt-2{
@@ -1214,6 +1218,10 @@ h4{
 @media (min-width: 1024px){
   .lg\:mt-0{
     margin-top: 0px;
+  }
+
+  .lg\:h-96{
+    height: 24rem;
   }
 
   .lg\:w-80{
