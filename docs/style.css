@@ -691,7 +691,7 @@ h4{
 
 .img-box{
   --tw-bg-opacity: 1;
-  background-color: rgb(240 253 244 / var(--tw-bg-opacity));
+  background-color: rgb(245 245 244 / var(--tw-bg-opacity));
 }
 
 @media (min-width: 1024px){
